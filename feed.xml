@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Engineering Course for Iain</title>
+    <link>https://iainconnor.github.io/aice-7f3k9q2x/</link>
+    <atom:link href="https://iainconnor.github.io/aice-7f3k9q2x/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>A private, weekday-morning audio course on AI engineering for a startup CTO: models, agents, harnesses, open weights, and the path to a dark factory.</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Nov 2026 13:29:44 +0000</lastBuildDate>
+    <itunes:author>AI Trainer</itunes:author>
+    <itunes:summary>A private, weekday-morning audio course on AI engineering for a startup CTO: models, agents, harnesses, open weights, and the path to a dark factory.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>yes</itunes:block>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Technology"/>
+    <itunes:owner><itunes:name>AI Trainer</itunes:name></itunes:owner>
+    <itunes:image href="https://iainconnor.github.io/aice-7f3k9q2x/cover.jpg"/>
+    <image><url>https://iainconnor.github.io/aice-7f3k9q2x/cover.jpg</url><title>AI Engineering Course for Iain</title><link>https://iainconnor.github.io/aice-7f3k9q2x/</link></image>
+    <item>
+      <title>Lesson 2: Context windows as working memory</title>
+      <description>Yesterday we said the model is a brilliant contractor who can only see what is on the desk right now. Today is about the desk itself. How big it is, what is actually sitting on it, and what happens when it fills up. If you take one idea away, make it this one. Context is a scarce budget, and what yo</description>
+      <itunes:summary>Yesterday we said the model is a brilliant contractor who can only see what is on the desk right now. Today is about the desk itself. How big it is, what is actually sitting on it, and what happens when it fills up. If you take one idea away, make it this one. Context is a scarce budget, and what yo</itunes:summary>
+      <pubDate>Fri, 27 Nov 2026 13:29:44 +0000</pubDate>
+      <guid isPermaLink="false">aice-lesson-02-script</guid>
+      <enclosure url="https://iainconnor.github.io/aice-7f3k9q2x/episodes/lesson-02-script.mp3" length="3982359" type="audio/mpeg"/>
+      <itunes:duration>00:05:31</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Lesson 1: How an LLM actually works</title>
+      <description>Here is the one idea this whole course rests on. A large language model is not a mind that already knows your codebase. It is a next-token engine with a finite working memory. Picture a brilliant contractor who can only see what is on the desk right now, and who writes one word at a time by betting </description>
+      <itunes:summary>Here is the one idea this whole course rests on. A large language model is not a mind that already knows your codebase. It is a next-token engine with a finite working memory. Picture a brilliant contractor who can only see what is on the desk right now, and who writes one word at a time by betting </itunes:summary>
+      <pubDate>Thu, 26 Nov 2026 15:36:04 +0000</pubDate>
+      <guid isPermaLink="false">aice-lesson-01-script</guid>
+      <enclosure url="https://iainconnor.github.io/aice-7f3k9q2x/episodes/lesson-01-script.mp3" length="3699923" type="audio/mpeg"/>
+      <itunes:duration>00:05:08</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Welcome to the AI Engineering Course</title>
+      <description>Hi Iain, welcome. This is your private AI engineering course, built for a C T O who already uses AI every day and wants to get a lot more out of it. Here's how it works. Every weekday morning, around eight thirty Central, a new lesson lands. Each one is a few minutes of audio, then a written version</description>
+      <itunes:summary>Hi Iain, welcome. This is your private AI engineering course, built for a C T O who already uses AI every day and wants to get a lot more out of it. Here's how it works. Every weekday morning, around eight thirty Central, a new lesson lands. Each one is a few minutes of audio, then a written version</itunes:summary>
+      <pubDate>Thu, 26 Nov 2026 15:13:10 +0000</pubDate>
+      <guid isPermaLink="false">aice-welcome-script</guid>
+      <enclosure url="https://iainconnor.github.io/aice-7f3k9q2x/episodes/welcome-script.mp3" length="717575" type="audio/mpeg"/>
+      <itunes:duration>00:00:59</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
